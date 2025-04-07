@@ -8,7 +8,6 @@ channels:
 dependencies:
   - anyio=4.8.0
   - aom=3.9.1
-  - appnope=0.1.2
   - argon2-cffi=21.3.0
   - argon2-cffi-bindings=21.2.0
   - arrow=1.3.0
@@ -110,13 +109,8 @@ dependencies:
   - libexpat=2.6.4
   - libffi=3.4.2
   - libgettextpo=0.22.5
-  - libgfortran=5.0.0
-  - libgfortran5=13.2.0
-  - libglib=2.82.2
   - libhwloc=2.11.2
   - libiconv=1.17
-  - libintl=0.22.5
-  - libintl-devel=0.22.5
   - libjpeg-turbo=3.0.0
   - liblapack=3.9.0
   - liblapacke=3.9.0
@@ -126,10 +120,8 @@ dependencies:
   - libnghttp2=1.64.0
   - libntlm=1.8
   - libogg=1.3.5
-  - libopenblas=0.3.28
   - libopencv=4.10.0
   - libopenvino=2024.6.0
-  - libopenvino-arm-cpu-plugin=2024.6.0
   - libopenvino-auto-batch-plugin=2024.6.0
   - libopenvino-auto-plugin=2024.6.0
   - libopenvino-hetero-plugin=2024.6.0
@@ -195,13 +187,8 @@ dependencies:
   - py-opencv=4.10.0
   - pycparser=2.22
   - pygments=2.15.1
-  - pyobjc-core=11.0
-  - pyobjc-framework-cocoa=11.0
-  - pyqt=5.15.9
-  - pyqt5-sip=12.12.2
   - pyqtgraph=0.13.7
   - pysocks=1.7.1
-  - python=3.9.21
   - python-dateutil=2.9.0.post0
   - python-fastjsonschema=2.21.1
   - python-tzdata=2025.1
@@ -218,7 +205,6 @@ dependencies:
   - send2trash=1.8.3
   - setuptools=75.8.0
   - shapely=2.0.6
-  - sip=6.8.6
   - six=1.17.0
   - snappy=1.2.1
   - sniffio=1.3.1
