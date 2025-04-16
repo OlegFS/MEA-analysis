@@ -57,6 +57,8 @@ class ImageViewer(QWidget):
         # if self.coregister==True:
         self.image_view.getView().scene().sigMouseClicked.connect(self.get_click_position)
 
+        self.open_file_btn = QPushButton("Open file")
+        self.open_file_btn.clicked.connect(self.open_file)
 
         self.open_list_btn = QPushButton("Open list")
         self.open_list_btn.clicked.connect(self.open_list)
@@ -108,6 +110,7 @@ class ImageViewer(QWidget):
         self.save_btn.clicked.connect(self.save_data)
         
         left_layout = QVBoxLayout()
+        left_layout.addWidget(self.open_file_btn)
         left_layout.addWidget(self.open_list_btn)
         left_layout.addWidget(self.list_btn)
         left_layout.addWidget(self.coregister_btn)
@@ -139,6 +142,14 @@ class ImageViewer(QWidget):
         self.points = []
         self.data = pd.DataFrame(columns=["X", "Y", "Label", "Filename"])
     
+    def open_file(self):
+        img_path, _ = QFileDialog.getOpenFileName(self, "Open File", "",  "TIFF Files (*.tif *.tiff);;All Files (*)")
+        if img_path:
+            self.file_list = [img_path]
+        if self.file_list:
+            self.current_index = 0
+            self.load_image()
+
     def open_list(self):
         file_path, _ = QFileDialog.getOpenFileName(self, "Open File List", "", "Text Files (*.txt)")
         if file_path:
@@ -335,7 +346,7 @@ class ImageViewer(QWidget):
         # collect data
         data=pd.DataFrame({'e_label':self.saved_labels,
                            'e_pos_x':na(self.saved_position)[:,0],
-                        'e_pos_y':na(self.saved_position)[:,0],
+                        'e_pos_y':na(self.saved_position)[:,1],
                         'region':self.saved_rgn})
         data['file'] = self.file_list[self.current_index]
 
