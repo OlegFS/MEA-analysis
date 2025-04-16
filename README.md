@@ -10,9 +10,14 @@ TODO:
 - [x] Veryfy the list of electrode names vs their positions 
  - [x] Save templates for electrodes 
  - [x] GUI for coregistering images with electrodes(click on 3 coordinated and get the projection for electrodes) 
- 
- - [] Main pipeline for processing the broadband signal
- -
+ - [ ] visualization of all selected electrodes in colors using gui
+ - [ ] don't show electrodes if they have an assigned area
+ - [ ] GUI check the discovered events 
+ - [ ] fix the main filtering, looks like frequencies should not be devided by 2
+ - [ ]
+
+ - [ ] seperate script that filters 300-3500 and detects spikes, saves spite times and cutouts (mb check spike sporting software)
+ - [ ]
 
 
 ## Stiching with FIJI 
