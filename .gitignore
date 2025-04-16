@@ -2,6 +2,7 @@
 
 *.bak
 *.dat
+*.mp4
 *sbi-logs
 /data
 *data
