@@ -1,0 +1,41 @@
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/2025-01-19T00-12-46McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/2025-01-18T22-21-53McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/2025-01-19T00-46-41McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/2025-01-18T22-21-27McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 6 cortex only/2025-01-19T06-02-52McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 6 cortex only/2025-01-19T06-23-18McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 5 dorsal hippocmapus+cortex/2025-01-19T05-11-47McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 5 dorsal hippocmapus+cortex/2025-01-19T04-28-15McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 5 dorsal hippocmapus+cortex/2025-01-19T05-38-04McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 5 dorsal hippocmapus+cortex/2025-01-19T04-49-21McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 4 ventral Hippo/2025-01-19T03-27-03McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 4 ventral Hippo/2025-01-19T03-56-24McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 4 ventral Hippo/2025-01-19T03-56-14McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 4 ventral Hippo/2025-01-19T03-56-28McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/slice 4 ventral Hippo/2025-01-19T03-48-14McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/2nd slice hippo not complete/2025-01-19T01-59-24McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/2nd slice hippo not complete/2025-01-19T01-38-47McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/2nd slice hippo not complete/2025-01-19T01-18-28McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/3rd slice DHP+Cortex/2025-01-19T02-55-00McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/18.01.2025 mice 183 p6 HT/3rd slice DHP+Cortex/2025-01-19T02-34-38McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/Slice 3/2025-01-17T17-43-17McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice 5/2025-01-17T20-55-53McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice 5/2025-01-17T21-17-46McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/Slice2/2025-01-17T16-53-43McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/Slice2/2025-01-17T17-15-11McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice 8 hippocampus/2025-01-17T23-52-45McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice4/2025-01-17T20-24-12McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice4/2025-01-17T19-54-44McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice4/2025-01-17T20-48-53McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice4/2025-01-17T19-31-34McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice6/2025-01-17T22-30-24McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice6/2025-01-17T21-47-28McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice6/2025-01-17T22-09-46McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice1/2025-01-17T16-39-53McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice1/2025-01-17T16-28-52McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice1/2025-01-17T16-43-17McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice1/2025-01-17T16-02-43McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice 9 cortex/2025-01-18T00-46-37McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice 9 cortex/2025-01-18T00-23-01McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice 7 cortex only/2025-01-17T22-49-20McsRecording.h5
+/mnt/server_epl/KCNQ/MEAdata/export/17-01-25/slice 7 cortex only/2025-01-17T23-10-33McsRecording.h5

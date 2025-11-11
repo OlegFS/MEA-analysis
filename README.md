@@ -10,6 +10,7 @@ TODO:
 - [x] Veryfy the list of electrode names vs their positions 
  - [x] Save templates for electrodes 
  - [x] GUI for coregistering images with electrodes(click on 3 coordinated and get the projection for electrodes) 
+ - [x] table of recorded data
  - [ ] visualization of all selected electrodes in colors using gui
  - [ ] don't show electrodes if they have an assigned area
  - [ ] GUI check the discovered events 
