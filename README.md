@@ -1,7 +1,8 @@
-# Codes and tools for analysis of MEA recordsing from acute slices
+# Codes and tools for analysis of MEA recordings from acute slices
 
 Usage:
 ```
+ conda env create -f environment.yml
  conda activate sliceMEA
 ```
 
